@@ -1,3 +1,4 @@
+[![masterHead](https://tenor.com/view/developer-gif-2461104302247665708)
 <h1 align="center">Hi 👋, I'm Anuj kr Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
