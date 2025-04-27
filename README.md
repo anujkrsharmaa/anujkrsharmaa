@@ -1,8 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://anujkrsharmaa.io)
+
 <h1 align="center">Hi 👋, I'm Anuj kr Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif...")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujkrsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="anujkrsharmaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujkrsharmaa" alt="anujkrsharmaa" /></a> </p>
