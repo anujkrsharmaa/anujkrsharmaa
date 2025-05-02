@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Anuj kr Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujkrsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="anujkrsharmaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujkrsharmaa" alt="anujkrsharmaa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anujkrsharma13" target="blank"><img src="https://img.shields.io/twitter/follow/anujkrsharma13?logo=twitter&style=for-the-badge" alt="anujkrsharma13" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
 •⁠  ⁠📫 How to reach me *sharmaanujkr752@gmail.com*
 
 •⁠  ⁠⚡ Fun fact *I Think I Am Funny*
